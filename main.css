@@ -1,0 +1,19 @@
+body {
+  background-image: -webkit-linear-gradient(left, #ffffff 30% , #333333  0%, #dd1818 );
+  }
+    div{ margin-top: 150px; }
+    .container {
+      display: flex;
+    }
+  
+    
+    .image {
+      flex-basis: 30%;
+      padding-left: 2%;
+    }
+    
+    .text {
+      font-size: 20px;
+      padding-left: 20px;
+      font-family: 'Courier New', Courier, monospace;
+    }
